@@ -4,6 +4,9 @@ Esse diretorio se refere aos arquivos dos exercicios do curso da HCode Treinamen
 ## Estrutura de um arquivo HTML
 - Conhecendo a propriedades Head e Body
 
+## Estrutura da pagina HTML
+- Elementos de blocos
+
 
 ### Notas
 
