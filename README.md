@@ -32,9 +32,13 @@ Esse diretorio se refere aos arquivos dos exercicios do curso da HCode Treinamen
 #### Atributos com o valor igual ao nome
 - Quando um atributo global tem o valor igual ao nome não é necessario declarar o valor desse atributo.
 **Exemplo:**
+~~~HTML
 <div hidden="hidden">Div</div>
+~~~
 Pode ser declarado apenas como:
+~~~HTML
 <div hidden>div</div>
+~~~
 
 #### Diversas
 - Não será colocado em pratica todos os exercicios pois o objetivo de fazer esse curso é para atualização de conhecimento.
